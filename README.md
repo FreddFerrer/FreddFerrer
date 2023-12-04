@@ -1,7 +1,6 @@
 <h1 align="center">Hola! 👋, soy Freddy</h1>
 <h3 align="center">Estudiante y desarrollador de software!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freddferrer" alt="freddferrer" /></a> </p>
 
 - 🔭 Actualmente estudio en **Universidad Tecnológica Nacional**
 
