@@ -6,8 +6,6 @@
 
 - 👨‍💻 Orientado al desarrollo backend con **Java y Spring**
 
-- 📫 En busca de mi primer **trabajo formal**
-
 - 🤝 Busco compañero para seguir perfeccionándome en **Spring**
 
 <h3 align="left">Connect with me:</h3>
